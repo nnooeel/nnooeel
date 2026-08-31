@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Snake
 
 on:
   schedule:
@@ -12,7 +12,7 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: nnooee1
+          github_user_name: nnooeel
           outputs: |
             dist/github-contribution-grid-snake.svg
 
