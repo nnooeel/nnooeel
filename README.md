@@ -1,8 +1,9 @@
-#  Salut, moi c'est [leon] !
-
-![Typing SVG](https://herokuapp.com;Découvrez+mes+projets)
+#  yo, moi c'est noel !
 
 ---
 
-### 👁️ Visiteurs sur mon profil
-![Compteur de vues](https://glitch.me)
+###  Mes Statistiques GitHub
+
+![GitHub](https://vercel.app)
+
+![Langages](https://vercel.app)
